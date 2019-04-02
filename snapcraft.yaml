@@ -1,4 +1,4 @@
-name: pockeyevents
+name: poc-security-check
 version: git
 summary: POC for keyboard events.
 description: >
