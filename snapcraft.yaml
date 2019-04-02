@@ -1,0 +1,17 @@
+name: pockeyevents
+version: git
+summary: POC for keyboard events.
+description: >
+  Start test if listening for keys:
+    $ pockeyevents
+
+confinement: devmode
+
+parts:
+  pockeyevents:
+    plugin: nodejs
+    source: .
+
+apps:
+  pockeyevents:
+    command: pockeyevents
