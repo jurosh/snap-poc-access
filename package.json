@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Juraj Husar",
-  "license": "unlicensed",
+  "license": "mit",
   "dependencies": {
     "iohook": "^0.4.2"
   }
